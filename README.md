@@ -13,7 +13,7 @@ Steps to metadata
 The query:
 https://www.encodeproject.org/search/?type=Dataset&replicates.library.biosample.donor.organism.scientific_name=Homo+sapiens&limit=all
 
-results in a page including a table of results. The attachment had a limit of 50 results: ENCODE_Homo_sapiens.html.txt
+results in a page including a table of results. This response had a limit of 50 results: https://github.com/bionode-hack/bionode-encode/blob/master/example_responses/ENCODE_Homo_sapiens.html
 
 2: How do I request information on an individual dataset (or maybe a batch of datasets)?
 
@@ -23,7 +23,7 @@ https://www.encodeproject.org/experiments/_accession_/
 e.g.:
 https://www.encodeproject.org/experiments/ENCSR385UPQ/
 
-Result: ENCSR385UPQ.html.txt
+Result: https://github.com/bionode-hack/bionode-encode/blob/master/example_responses/ENCSR385UPQ.html
 
 
 3: Where do I find the dataset attributes?
